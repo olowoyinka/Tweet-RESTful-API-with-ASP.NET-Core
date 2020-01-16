@@ -1,0 +1,12 @@
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\bin\Debug\netstandard2.0\TweetWebApi.SDK.deps.json
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\bin\Debug\netstandard2.0\TweetWebApi.SDK.dll
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\obj\Debug\netstandard2.0\TweetWebApi.SDK.csprojAssemblyReference.cache
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\obj\Debug\netstandard2.0\TweetWebApi.SDK.AssemblyInfoInputs.cache
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\obj\Debug\netstandard2.0\TweetWebApi.SDK.AssemblyInfo.cs
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\bin\Debug\netstandard2.0\TweetWebApi.SDK.pdb
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\bin\Debug\netstandard2.0\TweetWebApi.EndPoint.dll
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\bin\Debug\netstandard2.0\TweetWebApi.EndPoint.pdb
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\obj\Debug\netstandard2.0\TweetWebApi.SDK.csproj.CopyComplete
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\obj\Debug\netstandard2.0\TweetWebApi.SDK.dll
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.SDK\obj\Debug\netstandard2.0\TweetWebApi.SDK.pdb

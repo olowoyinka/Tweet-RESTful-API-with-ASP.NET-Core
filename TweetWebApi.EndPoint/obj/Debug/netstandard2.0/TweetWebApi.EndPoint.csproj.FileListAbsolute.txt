@@ -1,0 +1,8 @@
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.EndPoint\bin\Debug\netstandard2.0\TweetWebApi.EndPoint.deps.json
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.EndPoint\bin\Debug\netstandard2.0\TweetWebApi.EndPoint.dll
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.EndPoint\obj\Debug\netstandard2.0\TweetWebApi.EndPoint.AssemblyInfoInputs.cache
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.EndPoint\obj\Debug\netstandard2.0\TweetWebApi.EndPoint.AssemblyInfo.cs
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.EndPoint\bin\Debug\netstandard2.0\TweetWebApi.EndPoint.pdb
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.EndPoint\obj\Debug\netstandard2.0\TweetWebApi.EndPoint.csprojAssemblyReference.cache
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.EndPoint\obj\Debug\netstandard2.0\TweetWebApi.EndPoint.dll
+C:\Users\olowoyinka\source\repos\TweetWebApi\TweetWebApi.EndPoint\obj\Debug\netstandard2.0\TweetWebApi.EndPoint.pdb
